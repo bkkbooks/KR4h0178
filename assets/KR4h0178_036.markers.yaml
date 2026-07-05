@@ -25,7 +25,6 @@ markers:
   - {type: 'tls:seg', offset: 34, content: '', id: KR4h0178_CHANT_036-1a.8}
   - {type: punctuation, offset: 38, content: 。, id: KR4h0178_CHANT_036-bkkpn10}
   - {type: 'tls:seg', offset: 38, content: '', id: KR4h0178_CHANT_036-1a.9}
-  - {type: substitution, offset: 39, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 50, content: 。, id: KR4h0178_CHANT_036-bkkpn11}
   - {type: 'tls:seg', offset: 50, content: '', id: KR4h0178_CHANT_036-1a.10}
   - {type: punctuation, offset: 50, content: 《, id: KR4h0178_CHANT_036-bkkpn12}
@@ -43,7 +42,6 @@ markers:
   - {type: 'tls:seg', offset: 58, content: '', id: KR4h0178_CHANT_036-2a.3}
   - {type: punctuation, offset: 65, content: 。, id: KR4h0178_CHANT_036-bkkpn18}
   - {type: 'tls:seg', offset: 65, content: '', id: KR4h0178_CHANT_036-2a.4}
-  - {type: substitution, offset: 65, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 69, content: 。, id: KR4h0178_CHANT_036-bkkpn19}
   - {type: 'tls:seg', offset: 69, content: '', id: KR4h0178_CHANT_036-2a.5}
   - {type: punctuation, offset: 69, content: 《, id: KR4h0178_CHANT_036-bkkpn20}
@@ -74,19 +72,16 @@ markers:
   - {type: 'tls:seg', offset: 116, content: '', id: KR4h0178_CHANT_036-3a.1}
   - {type: 'tls:seg', offset: 116, content: '', id: KR4h0178_CHANT_036-3a.2}
   - {type: punctuation, offset: 116, content: 《, id: KR4h0178_CHANT_036-bkkpn33}
-  - {type: substitution, offset: 116, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 119, content: 》, id: KR4h0178_CHANT_036-bkkpn34}
   - {type: xml-element, offset: 119, content: '', id: KR4h0178_CHANT_036-bkkxmlele14, name: p, role: close}
   - {type: xml-element, offset: 119, content: '', id: KR4h0178_CHANT_036-bkkxmlele15, name: p, role: open}
   - {type: 'tls:seg', offset: 119, content: '', id: KR4h0178_CHANT_036-3a.3}
   - {type: punctuation, offset: 128, content: 。, id: KR4h0178_CHANT_036-bkkpn35}
   - {type: 'tls:seg', offset: 128, content: '', id: KR4h0178_CHANT_036-3a.4}
-  - {type: substitution, offset: 129, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 135, content: 。, id: KR4h0178_CHANT_036-bkkpn36}
   - {type: 'tls:seg', offset: 135, content: '', id: KR4h0178_CHANT_036-3a.5}
   - {type: punctuation, offset: 143, content: 。, id: KR4h0178_CHANT_036-bkkpn37}
   - {type: 'tls:seg', offset: 143, content: '', id: KR4h0178_CHANT_036-3a.6}
-  - {type: substitution, offset: 145, original: 虵, replacement: 蛇, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1081}}
   - {type: punctuation, offset: 149, content: 。, id: KR4h0178_CHANT_036-bkkpn38}
   - {type: 'tls:seg', offset: 149, content: '', id: KR4h0178_CHANT_036-3a.7}
   - {type: punctuation, offset: 154, content: 。, id: KR4h0178_CHANT_036-bkkpn39}
@@ -136,7 +131,6 @@ markers:
   - {type: 'tls:seg', offset: 263, content: '', id: KR4h0178_CHANT_036-4a.16}
   - {type: punctuation, offset: 268, content: 。, id: KR4h0178_CHANT_036-bkkpn61}
   - {type: 'tls:seg', offset: 268, content: '', id: KR4h0178_CHANT_036-4a.17}
-  - {type: substitution, offset: 270, original: 厤, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0035}}
   - {type: punctuation, offset: 272, content: 。, id: KR4h0178_CHANT_036-bkkpn62}
   - {type: 'tls:seg', offset: 272, content: '', id: KR4h0178_CHANT_036-4a.18}
   - {type: punctuation, offset: 277, content: 。, id: KR4h0178_CHANT_036-bkkpn63}
@@ -165,7 +159,6 @@ markers:
   - {type: 'tls:seg', offset: 336, content: '', id: KR4h0178_CHANT_036-4a.30}
   - {type: punctuation, offset: 340, content: 。, id: KR4h0178_CHANT_036-bkkpn75}
   - {type: 'tls:seg', offset: 340, content: '', id: KR4h0178_CHANT_036-4a.31}
-  - {type: substitution, offset: 340, original: 寍, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3601}}
   - {type: punctuation, offset: 345, content: 。, id: KR4h0178_CHANT_036-bkkpn76}
   - {type: 'tls:seg', offset: 345, content: '', id: KR4h0178_CHANT_036-4a.32}
   - {type: punctuation, offset: 352, content: 。, id: KR4h0178_CHANT_036-bkkpn77}
@@ -190,7 +183,6 @@ markers:
   - {type: 'tls:seg', offset: 391, content: '', id: KR4h0178_CHANT_036-4a.42}
   - {type: punctuation, offset: 397, content: 。, id: KR4h0178_CHANT_036-bkkpn87}
   - {type: 'tls:seg', offset: 397, content: '', id: KR4h0178_CHANT_036-4a.43}
-  - {type: substitution, offset: 399, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 401, content: 。, id: KR4h0178_CHANT_036-bkkpn88}
   - {type: 'tls:seg', offset: 401, content: '', id: KR4h0178_CHANT_036-4a.44}
   - {type: punctuation, offset: 405, content: 。, id: KR4h0178_CHANT_036-bkkpn89}
@@ -215,7 +207,6 @@ markers:
   - {type: 'tls:seg', offset: 443, content: '', id: KR4h0178_CHANT_036-4a.54}
   - {type: punctuation, offset: 447, content: 。, id: KR4h0178_CHANT_036-bkkpn99}
   - {type: 'tls:seg', offset: 447, content: '', id: KR4h0178_CHANT_036-4a.55}
-  - {type: substitution, offset: 449, original: 弁, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4457}}
   - {type: punctuation, offset: 453, content: 。, id: KR4h0178_CHANT_036-bkkpn100}
   - {type: 'tls:seg', offset: 453, content: '', id: KR4h0178_CHANT_036-4a.56}
   - {type: punctuation, offset: 457, content: 。, id: KR4h0178_CHANT_036-bkkpn101}
@@ -331,7 +322,6 @@ markers:
   - {type: 'tls:seg', offset: 728, content: '', id: KR4h0178_CHANT_036-5a.39}
   - {type: punctuation, offset: 734, content: 。, id: KR4h0178_CHANT_036-bkkpn157}
   - {type: 'tls:seg', offset: 734, content: '', id: KR4h0178_CHANT_036-5a.40}
-  - {type: substitution, offset: 736, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 739, content: 。, id: KR4h0178_CHANT_036-bkkpn158}
   - {type: 'tls:seg', offset: 739, content: '', id: KR4h0178_CHANT_036-5a.41}
   - {type: punctuation, offset: 743, content: 。, id: KR4h0178_CHANT_036-bkkpn159}
@@ -362,7 +352,6 @@ markers:
   - {type: 'tls:seg', offset: 818, content: '', id: KR4h0178_CHANT_036-5a.54}
   - {type: punctuation, offset: 824, content: 。, id: KR4h0178_CHANT_036-bkkpn172}
   - {type: 'tls:seg', offset: 824, content: '', id: KR4h0178_CHANT_036-5a.55}
-  - {type: substitution, offset: 827, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 828, content: 。, id: KR4h0178_CHANT_036-bkkpn173}
   - {type: 'tls:seg', offset: 828, content: '', id: KR4h0178_CHANT_036-5a.56}
   - {type: punctuation, offset: 832, content: 。, id: KR4h0178_CHANT_036-bkkpn174}
@@ -456,7 +445,6 @@ markers:
   - {type: 'tls:seg', offset: 1043, content: '', id: KR4h0178_CHANT_036-5a.100}
   - {type: punctuation, offset: 1051, content: 。, id: KR4h0178_CHANT_036-bkkpn219}
   - {type: 'tls:seg', offset: 1051, content: '', id: KR4h0178_CHANT_036-5a.101}
-  - {type: substitution, offset: 1053, original: 厤, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0035}}
   - {type: punctuation, offset: 1059, content: 。, id: KR4h0178_CHANT_036-bkkpn220}
   - {type: 'tls:seg', offset: 1059, content: '', id: KR4h0178_CHANT_036-5a.102}
   - {type: punctuation, offset: 1063, content: 。, id: KR4h0178_CHANT_036-bkkpn221}
@@ -481,7 +469,6 @@ markers:
   - {type: 'tls:seg', offset: 1114, content: '', id: KR4h0178_CHANT_036-5a.112}
   - {type: punctuation, offset: 1124, content: 。, id: KR4h0178_CHANT_036-bkkpn231}
   - {type: 'tls:seg', offset: 1124, content: '', id: KR4h0178_CHANT_036-5a.113}
-  - {type: substitution, offset: 1129, original: 埽, replacement: 掃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3181}}
   - {type: punctuation, offset: 1132, content: 。, id: KR4h0178_CHANT_036-bkkpn232}
   - {type: 'tls:seg', offset: 1132, content: '', id: KR4h0178_CHANT_036-5a.114}
   - {type: punctuation, offset: 1145, content: 。, id: KR4h0178_CHANT_036-bkkpn233}
@@ -522,7 +509,6 @@ markers:
   - {type: 'tls:seg', offset: 1226, content: '', id: KR4h0178_CHANT_036-5a.132}
   - {type: punctuation, offset: 1230, content: 。, id: KR4h0178_CHANT_036-bkkpn251}
   - {type: 'tls:seg', offset: 1230, content: '', id: KR4h0178_CHANT_036-5a.133}
-  - {type: substitution, offset: 1230, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 1234, content: 。, id: KR4h0178_CHANT_036-bkkpn252}
   - {type: 'tls:seg', offset: 1234, content: '', id: KR4h0178_CHANT_036-5a.134}
   - {type: punctuation, offset: 1245, content: 。, id: KR4h0178_CHANT_036-bkkpn253}
@@ -643,7 +629,6 @@ markers:
   - {type: 'tls:seg', offset: 1553, content: '', id: KR4h0178_CHANT_036-5a.192}
   - {type: punctuation, offset: 1558, content: 。, id: KR4h0178_CHANT_036-bkkpn311}
   - {type: 'tls:seg', offset: 1558, content: '', id: KR4h0178_CHANT_036-5a.193}
-  - {type: substitution, offset: 1558, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 1562, content: 。, id: KR4h0178_CHANT_036-bkkpn312}
   - {type: 'tls:seg', offset: 1562, content: '', id: KR4h0178_CHANT_036-5a.194}
   - {type: punctuation, offset: 1566, content: 。, id: KR4h0178_CHANT_036-bkkpn313}
@@ -688,7 +673,6 @@ markers:
   - {type: 'tls:seg', offset: 1663, content: '', id: KR4h0178_CHANT_036-6a.14}
   - {type: punctuation, offset: 1670, content: 。, id: KR4h0178_CHANT_036-bkkpn334}
   - {type: 'tls:seg', offset: 1670, content: '', id: KR4h0178_CHANT_036-6a.15}
-  - {type: substitution, offset: 1672, original: 埽, replacement: 掃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3181}}
   - {type: punctuation, offset: 1679, content: 。, id: KR4h0178_CHANT_036-bkkpn335}
   - {type: 'tls:seg', offset: 1679, content: '', id: KR4h0178_CHANT_036-6a.16}
   - {type: punctuation, offset: 1685, content: 。, id: KR4h0178_CHANT_036-bkkpn336}
@@ -861,7 +845,6 @@ markers:
   - {type: 'tls:seg', offset: 2139, content: '', id: KR4h0178_CHANT_036-6a.100}
   - {type: punctuation, offset: 2144, content: 。, id: KR4h0178_CHANT_036-bkkpn420}
   - {type: 'tls:seg', offset: 2144, content: '', id: KR4h0178_CHANT_036-6a.101}
-  - {type: substitution, offset: 2149, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 2152, content: 。, id: KR4h0178_CHANT_036-bkkpn421}
   - {type: 'tls:seg', offset: 2152, content: '', id: KR4h0178_CHANT_036-6a.102}
   - {type: punctuation, offset: 2156, content: 。, id: KR4h0178_CHANT_036-bkkpn422}
@@ -904,7 +887,6 @@ markers:
   - {type: 'tls:seg', offset: 2251, content: '', id: KR4h0178_CHANT_036-6a.121}
   - {type: punctuation, offset: 2257, content: 。, id: KR4h0178_CHANT_036-bkkpn441}
   - {type: 'tls:seg', offset: 2257, content: '', id: KR4h0178_CHANT_036-6a.122}
-  - {type: substitution, offset: 2260, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 2261, content: 。, id: KR4h0178_CHANT_036-bkkpn442}
   - {type: 'tls:seg', offset: 2261, content: '', id: KR4h0178_CHANT_036-6a.123}
   - {type: punctuation, offset: 2265, content: 。, id: KR4h0178_CHANT_036-bkkpn443}
@@ -970,7 +952,6 @@ markers:
   - {type: 'tls:seg', offset: 2391, content: '', id: KR4h0178_CHANT_036-7a.1}
   - {type: 'tls:seg', offset: 2391, content: '', id: KR4h0178_CHANT_036-7a.2}
   - {type: punctuation, offset: 2391, content: 《, id: KR4h0178_CHANT_036-bkkpn475}
-  - {type: substitution, offset: 2391, original: 厤, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0035}}
   - {type: punctuation, offset: 2393, content: 》, id: KR4h0178_CHANT_036-bkkpn476}
   - {type: xml-element, offset: 2393, content: '', id: KR4h0178_CHANT_036-bkkxmlele28, name: p, role: close}
   - {type: xml-element, offset: 2393, content: '', id: KR4h0178_CHANT_036-bkkxmlele29, name: p, role: open}
@@ -983,20 +964,17 @@ markers:
   - {type: 'tls:seg', offset: 2414, content: '', id: KR4h0178_CHANT_036-7a.6}
   - {type: punctuation, offset: 2414, content: 《, id: KR4h0178_CHANT_036-bkkpn480}
   - {type: punctuation, offset: 2416, content: ‧, id: KR4h0178_CHANT_036-bkkpn481}
-  - {type: substitution, offset: 2417, original: 厤, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0035}}
   - {type: punctuation, offset: 2419, content: 》, id: KR4h0178_CHANT_036-bkkpn482}
   - {type: punctuation, offset: 2420, content: 。, id: KR4h0178_CHANT_036-bkkpn483}
   - {type: xml-element, offset: 2420, content: '', id: KR4h0178_CHANT_036-bkkxmlele30, name: p, role: close}
   - {type: xml-element, offset: 2420, content: '', id: KR4h0178_CHANT_036-bkkxmlele31, name: p, role: open}
   - {type: 'tls:seg', offset: 2420, content: '', id: KR4h0178_CHANT_036-7a.7}
-  - {type: substitution, offset: 2423, original: 厤, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0035}}
   - {type: punctuation, offset: 2426, content: 。, id: KR4h0178_CHANT_036-bkkpn484}
   - {type: 'tls:seg', offset: 2426, content: '', id: KR4h0178_CHANT_036-7a.8}
   - {type: punctuation, offset: 2430, content: 。, id: KR4h0178_CHANT_036-bkkpn485}
   - {type: 'tls:seg', offset: 2430, content: '', id: KR4h0178_CHANT_036-7a.9}
   - {type: punctuation, offset: 2434, content: 。, id: KR4h0178_CHANT_036-bkkpn486}
   - {type: 'tls:seg', offset: 2434, content: '', id: KR4h0178_CHANT_036-7a.10}
-  - {type: substitution, offset: 2444, original: 厤, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0035}}
   - {type: punctuation, offset: 2446, content: 。, id: KR4h0178_CHANT_036-bkkpn487}
   - {type: 'tls:seg', offset: 2446, content: '', id: KR4h0178_CHANT_036-7a.11}
   - {type: punctuation, offset: 2454, content: 。, id: KR4h0178_CHANT_036-bkkpn488}
@@ -1069,7 +1047,6 @@ markers:
   - {type: 'tls:seg', offset: 2636, content: '', id: KR4h0178_CHANT_036-7a.45}
   - {type: punctuation, offset: 2640, content: 。, id: KR4h0178_CHANT_036-bkkpn522}
   - {type: 'tls:seg', offset: 2640, content: '', id: KR4h0178_CHANT_036-7a.46}
-  - {type: substitution, offset: 2641, original: 厤, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0035}}
   - {type: punctuation, offset: 2644, content: 。, id: KR4h0178_CHANT_036-bkkpn523}
   - {type: 'tls:seg', offset: 2644, content: '', id: KR4h0178_CHANT_036-7a.47}
   - {type: punctuation, offset: 2648, content: 。, id: KR4h0178_CHANT_036-bkkpn524}
@@ -1120,7 +1097,6 @@ markers:
   - {type: 'tls:seg', offset: 2766, content: '', id: KR4h0178_CHANT_036-7a.70}
   - {type: punctuation, offset: 2766, content: 《, id: KR4h0178_CHANT_036-bkkpn547}
   - {type: punctuation, offset: 2768, content: ‧, id: KR4h0178_CHANT_036-bkkpn548}
-  - {type: substitution, offset: 2769, original: 厤, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0035}}
   - {type: punctuation, offset: 2771, content: 》, id: KR4h0178_CHANT_036-bkkpn549}
   - {type: punctuation, offset: 2772, content: 。, id: KR4h0178_CHANT_036-bkkpn550}
   - {type: xml-element, offset: 2772, content: '', id: KR4h0178_CHANT_036-bkkxmlele32, name: p, role: close}
@@ -1140,7 +1116,6 @@ markers:
   - {type: 'tls:seg', offset: 2797, content: '', id: KR4h0178_CHANT_036-8a.6}
   - {type: punctuation, offset: 2801, content: 。, id: KR4h0178_CHANT_036-bkkpn556}
   - {type: 'tls:seg', offset: 2801, content: '', id: KR4h0178_CHANT_036-8a.7}
-  - {type: substitution, offset: 2804, original: 襃, replacement: 褒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1497}}
   - {type: punctuation, offset: 2809, content: 。, id: KR4h0178_CHANT_036-bkkpn557}
   - {type: 'tls:seg', offset: 2809, content: '', id: KR4h0178_CHANT_036-8a.8}
   - {type: punctuation, offset: 2813, content: 。, id: KR4h0178_CHANT_036-bkkpn558}
@@ -1195,7 +1170,6 @@ markers:
   - {type: 'tls:seg', offset: 2939, content: '', id: KR4h0178_CHANT_036-10a.1}
   - {type: 'tls:seg', offset: 2939, content: '', id: KR4h0178_CHANT_036-10a.2}
   - {type: punctuation, offset: 2939, content: 《, id: KR4h0178_CHANT_036-bkkpn582}
-  - {type: substitution, offset: 2939, original: 厤, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0035}}
   - {type: punctuation, offset: 2941, content: 》, id: KR4h0178_CHANT_036-bkkpn583}
   - {type: xml-element, offset: 2941, content: '', id: KR4h0178_CHANT_036-bkkxmlele42, name: p, role: close}
   - {type: xml-element, offset: 2941, content: '', id: KR4h0178_CHANT_036-bkkxmlele43, name: p, role: open}
@@ -1212,7 +1186,6 @@ markers:
   - {type: 'tls:seg', offset: 2964, content: '', id: KR4h0178_CHANT_036-10a.8}
   - {type: punctuation, offset: 2968, content: 。, id: KR4h0178_CHANT_036-bkkpn589}
   - {type: 'tls:seg', offset: 2968, content: '', id: KR4h0178_CHANT_036-10a.9}
-  - {type: substitution, offset: 2968, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 2972, content: 。, id: KR4h0178_CHANT_036-bkkpn590}
   - {type: 'tls:seg', offset: 2972, content: '', id: KR4h0178_CHANT_036-10a.10}
   - {type: punctuation, offset: 2976, content: 。, id: KR4h0178_CHANT_036-bkkpn591}
@@ -1229,7 +1202,6 @@ markers:
   - {type: 'tls:seg', offset: 3004, content: '', id: KR4h0178_CHANT_036-10a.16}
   - {type: punctuation, offset: 3004, content: 《, id: KR4h0178_CHANT_036-bkkpn597}
   - {type: punctuation, offset: 3006, content: ‧, id: KR4h0178_CHANT_036-bkkpn598}
-  - {type: substitution, offset: 3007, original: 厤, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0035}}
   - {type: punctuation, offset: 3009, content: 》, id: KR4h0178_CHANT_036-bkkpn599}
   - {type: punctuation, offset: 3010, content: 。, id: KR4h0178_CHANT_036-bkkpn600}
   - {type: xml-element, offset: 3010, content: '', id: KR4h0178_CHANT_036-bkkxmlele44, name: p, role: close}
@@ -1261,14 +1233,12 @@ markers:
   - {type: 'tls:seg', offset: 3046, content: '', id: KR4h0178_CHANT_036-12a.1}
   - {type: 'tls:seg', offset: 3046, content: '', id: KR4h0178_CHANT_036-12a.2}
   - {type: punctuation, offset: 3046, content: 《, id: KR4h0178_CHANT_036-bkkpn611}
-  - {type: substitution, offset: 3049, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
   - {type: punctuation, offset: 3050, content: 》, id: KR4h0178_CHANT_036-bkkpn612}
   - {type: xml-element, offset: 3050, content: '', id: KR4h0178_CHANT_036-bkkxmlele50, name: p, role: close}
   - {type: xml-element, offset: 3050, content: '', id: KR4h0178_CHANT_036-bkkxmlele51, name: p, role: open}
   - {type: 'tls:seg', offset: 3050, content: '', id: KR4h0178_CHANT_036-12a.3}
   - {type: punctuation, offset: 3059, content: 。, id: KR4h0178_CHANT_036-bkkpn613}
   - {type: 'tls:seg', offset: 3059, content: '', id: KR4h0178_CHANT_036-12a.4}
-  - {type: substitution, offset: 3060, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 3063, content: 。, id: KR4h0178_CHANT_036-bkkpn614}
   - {type: 'tls:seg', offset: 3063, content: '', id: KR4h0178_CHANT_036-12a.5}
   - {type: punctuation, offset: 3070, content: 。, id: KR4h0178_CHANT_036-bkkpn615}
@@ -1289,7 +1259,6 @@ markers:
   - {type: 'tls:seg', offset: 3114, content: '', id: KR4h0178_CHANT_036-12a.13}
   - {type: punctuation, offset: 3114, content: 《, id: KR4h0178_CHANT_036-bkkpn623}
   - {type: punctuation, offset: 3116, content: 》, id: KR4h0178_CHANT_036-bkkpn624}
-  - {type: substitution, offset: 3123, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
   - {type: punctuation, offset: 3127, content: 。, id: KR4h0178_CHANT_036-bkkpn625}
   - {type: xml-element, offset: 3127, content: '', id: KR4h0178_CHANT_036-bkkxmlele52, name: p, role: close}
   - {type: xml-element, offset: 3127, content: '', id: KR4h0178_CHANT_036-bkkxmlele53, name: p, role: open}
@@ -1350,7 +1319,6 @@ markers:
   - {type: xml-element, offset: 3197, content: '', id: KR4h0178_CHANT_036-bkkxmlele65, name: p, role: open}
   - {type: 'tls:seg', offset: 3197, content: '', id: KR4h0178_CHANT_036-14a.7}
   - {type: punctuation, offset: 3197, content: 《, id: KR4h0178_CHANT_036-bkkpn652}
-  - {type: substitution, offset: 3197, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 3200, content: 》, id: KR4h0178_CHANT_036-bkkpn653}
   - {type: xml-element, offset: 3200, content: '', id: KR4h0178_CHANT_036-bkkxmlele66, name: p, role: close}
   - {type: xml-element, offset: 3200, content: '', id: KR4h0178_CHANT_036-bkkxmlele67, name: p, role: open}
@@ -1361,7 +1329,6 @@ markers:
   - {type: 'tls:seg', offset: 3215, content: '', id: KR4h0178_CHANT_036-14a.10}
   - {type: punctuation, offset: 3221, content: 。, id: KR4h0178_CHANT_036-bkkpn656}
   - {type: 'tls:seg', offset: 3221, content: '', id: KR4h0178_CHANT_036-14a.11}
-  - {type: substitution, offset: 3223, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 3227, content: 。, id: KR4h0178_CHANT_036-bkkpn657}
   - {type: 'tls:seg', offset: 3227, content: '', id: KR4h0178_CHANT_036-14a.12}
   - {type: punctuation, offset: 3236, content: 。, id: KR4h0178_CHANT_036-bkkpn658}
@@ -1391,33 +1358,26 @@ markers:
   - {type: xml-element, offset: 3279, content: '', id: KR4h0178_CHANT_036-bkkxmlele70, name: p, role: close}
   - {type: xml-element, offset: 3279, content: '', id: KR4h0178_CHANT_036-bkkxmlele71, name: p, role: open}
   - {type: 'tls:seg', offset: 3279, content: '', id: KR4h0178_CHANT_036-15a.3}
-  - {type: substitution, offset: 3280, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 3282, content: 。, id: KR4h0178_CHANT_036-bkkpn671}
   - {type: 'tls:seg', offset: 3282, content: '', id: KR4h0178_CHANT_036-15a.4}
   - {type: punctuation, offset: 3288, content: 。, id: KR4h0178_CHANT_036-bkkpn672}
   - {type: 'tls:seg', offset: 3288, content: '', id: KR4h0178_CHANT_036-15a.5}
-  - {type: substitution, offset: 3289, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 3292, content: 。, id: KR4h0178_CHANT_036-bkkpn673}
   - {type: 'tls:seg', offset: 3292, content: '', id: KR4h0178_CHANT_036-15a.6}
   - {type: punctuation, offset: 3298, content: 。, id: KR4h0178_CHANT_036-bkkpn674}
   - {type: 'tls:seg', offset: 3298, content: '', id: KR4h0178_CHANT_036-15a.7}
-  - {type: substitution, offset: 3299, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 3302, content: 。, id: KR4h0178_CHANT_036-bkkpn675}
   - {type: 'tls:seg', offset: 3302, content: '', id: KR4h0178_CHANT_036-15a.8}
   - {type: punctuation, offset: 3308, content: 。, id: KR4h0178_CHANT_036-bkkpn676}
   - {type: 'tls:seg', offset: 3308, content: '', id: KR4h0178_CHANT_036-15a.9}
-  - {type: substitution, offset: 3309, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 3312, content: 。, id: KR4h0178_CHANT_036-bkkpn677}
   - {type: 'tls:seg', offset: 3312, content: '', id: KR4h0178_CHANT_036-15a.10}
-  - {type: substitution, offset: 3316, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 3318, content: 。, id: KR4h0178_CHANT_036-bkkpn678}
   - {type: 'tls:seg', offset: 3318, content: '', id: KR4h0178_CHANT_036-15a.11}
-  - {type: substitution, offset: 3319, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 3322, content: 。, id: KR4h0178_CHANT_036-bkkpn679}
   - {type: 'tls:seg', offset: 3322, content: '', id: KR4h0178_CHANT_036-15a.12}
   - {type: punctuation, offset: 3328, content: 。, id: KR4h0178_CHANT_036-bkkpn680}
   - {type: 'tls:seg', offset: 3328, content: '', id: KR4h0178_CHANT_036-15a.13}
-  - {type: substitution, offset: 3329, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 3332, content: 。, id: KR4h0178_CHANT_036-bkkpn681}
   - {type: 'tls:seg', offset: 3332, content: '', id: KR4h0178_CHANT_036-15a.14}
   - {type: punctuation, offset: 3332, content: 《, id: KR4h0178_CHANT_036-bkkpn682}
@@ -1427,7 +1387,6 @@ markers:
   - {type: xml-element, offset: 3337, content: '', id: KR4h0178_CHANT_036-bkkxmlele73, name: p, role: open}
   - {type: 'tls:seg', offset: 3337, content: '', id: KR4h0178_CHANT_036-16a.1}
   - {type: 'tls:seg', offset: 3337, content: '', id: KR4h0178_CHANT_036-16a.2}
-  - {type: substitution, offset: 3341, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 3343, content: 。, id: KR4h0178_CHANT_036-bkkpn685}
   - {type: 'tls:seg', offset: 3343, content: '', id: KR4h0178_CHANT_036-16a.3}
   - {type: punctuation, offset: 3349, content: 。, id: KR4h0178_CHANT_036-bkkpn686}
@@ -1436,22 +1395,18 @@ markers:
   - {type: 'tls:seg', offset: 3353, content: '', id: KR4h0178_CHANT_036-16a.5}
   - {type: punctuation, offset: 3359, content: 。, id: KR4h0178_CHANT_036-bkkpn688}
   - {type: 'tls:seg', offset: 3359, content: '', id: KR4h0178_CHANT_036-16a.6}
-  - {type: substitution, offset: 3360, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 3363, content: 。, id: KR4h0178_CHANT_036-bkkpn689}
   - {type: 'tls:seg', offset: 3363, content: '', id: KR4h0178_CHANT_036-16a.7}
   - {type: punctuation, offset: 3369, content: 。, id: KR4h0178_CHANT_036-bkkpn690}
   - {type: 'tls:seg', offset: 3369, content: '', id: KR4h0178_CHANT_036-16a.8}
-  - {type: substitution, offset: 3370, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 3373, content: 。, id: KR4h0178_CHANT_036-bkkpn691}
   - {type: 'tls:seg', offset: 3373, content: '', id: KR4h0178_CHANT_036-16a.9}
   - {type: punctuation, offset: 3379, content: 。, id: KR4h0178_CHANT_036-bkkpn692}
   - {type: 'tls:seg', offset: 3379, content: '', id: KR4h0178_CHANT_036-16a.10}
-  - {type: substitution, offset: 3380, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 3383, content: 。, id: KR4h0178_CHANT_036-bkkpn693}
   - {type: 'tls:seg', offset: 3383, content: '', id: KR4h0178_CHANT_036-16a.11}
   - {type: punctuation, offset: 3387, content: 。, id: KR4h0178_CHANT_036-bkkpn694}
   - {type: 'tls:seg', offset: 3387, content: '', id: KR4h0178_CHANT_036-16a.12}
-  - {type: substitution, offset: 3388, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 3391, content: 。, id: KR4h0178_CHANT_036-bkkpn695}
   - {type: 'tls:seg', offset: 3391, content: '', id: KR4h0178_CHANT_036-16a.13}
   - {type: punctuation, offset: 3391, content: 《, id: KR4h0178_CHANT_036-bkkpn696}
@@ -1468,16 +1423,12 @@ markers:
   - {type: 'tls:seg', offset: 3402, content: '', id: KR4h0178_CHANT_036-17a.3}
   - {type: punctuation, offset: 3409, content: 。, id: KR4h0178_CHANT_036-bkkpn701}
   - {type: 'tls:seg', offset: 3409, content: '', id: KR4h0178_CHANT_036-17a.4}
-  - {type: substitution, offset: 3410, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 3413, content: 。, id: KR4h0178_CHANT_036-bkkpn702}
   - {type: 'tls:seg', offset: 3413, content: '', id: KR4h0178_CHANT_036-17a.5}
-  - {type: substitution, offset: 3420, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
   - {type: punctuation, offset: 3423, content: 。, id: KR4h0178_CHANT_036-bkkpn703}
   - {type: 'tls:seg', offset: 3423, content: '', id: KR4h0178_CHANT_036-17a.6}
-  - {type: substitution, offset: 3427, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 3429, content: 。, id: KR4h0178_CHANT_036-bkkpn704}
   - {type: 'tls:seg', offset: 3429, content: '', id: KR4h0178_CHANT_036-17a.7}
-  - {type: substitution, offset: 3429, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 3435, content: 。, id: KR4h0178_CHANT_036-bkkpn705}
   - {type: 'tls:seg', offset: 3435, content: '', id: KR4h0178_CHANT_036-17a.8}
   - {type: punctuation, offset: 3445, content: 。, id: KR4h0178_CHANT_036-bkkpn706}
@@ -1494,7 +1445,6 @@ markers:
   - {type: 'tls:seg', offset: 3485, content: '', id: KR4h0178_CHANT_036-17a.14}
   - {type: punctuation, offset: 3492, content: 。, id: KR4h0178_CHANT_036-bkkpn712}
   - {type: 'tls:seg', offset: 3492, content: '', id: KR4h0178_CHANT_036-17a.15}
-  - {type: substitution, offset: 3495, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 3498, content: 。, id: KR4h0178_CHANT_036-bkkpn713}
   - {type: 'tls:seg', offset: 3498, content: '', id: KR4h0178_CHANT_036-17a.16}
   - {type: punctuation, offset: 3502, content: 。, id: KR4h0178_CHANT_036-bkkpn714}
@@ -1505,7 +1455,6 @@ markers:
   - {type: 'tls:seg', offset: 3511, content: '', id: KR4h0178_CHANT_036-17a.19}
   - {type: punctuation, offset: 3515, content: 。, id: KR4h0178_CHANT_036-bkkpn717}
   - {type: 'tls:seg', offset: 3515, content: '', id: KR4h0178_CHANT_036-17a.20}
-  - {type: substitution, offset: 3518, original: 樸, replacement: 朴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3880}}
   - {type: punctuation, offset: 3519, content: 。, id: KR4h0178_CHANT_036-bkkpn718}
   - {type: 'tls:seg', offset: 3519, content: '', id: KR4h0178_CHANT_036-17a.21}
   - {type: punctuation, offset: 3519, content: 《, id: KR4h0178_CHANT_036-bkkpn719}
@@ -1546,7 +1495,6 @@ markers:
   - {type: 'tls:seg', offset: 3578, content: '', id: KR4h0178_CHANT_036-19a.1}
   - {type: 'tls:seg', offset: 3578, content: '', id: KR4h0178_CHANT_036-19a.2}
   - {type: punctuation, offset: 3578, content: 《, id: KR4h0178_CHANT_036-bkkpn737}
-  - {type: substitution, offset: 3582, original: 牋, replacement: 箋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2083}}
   - {type: punctuation, offset: 3583, content: 》, id: KR4h0178_CHANT_036-bkkpn738}
   - {type: xml-element, offset: 3583, content: '', id: KR4h0178_CHANT_036-bkkxmlele84, name: p, role: close}
   - {type: xml-element, offset: 3583, content: '', id: KR4h0178_CHANT_036-bkkxmlele85, name: p, role: open}
@@ -1574,7 +1522,6 @@ markers:
   - {type: punctuation, offset: 3641, content: 《, id: KR4h0178_CHANT_036-bkkpn749}
   - {type: punctuation, offset: 3643, content: ‧, id: KR4h0178_CHANT_036-bkkpn750}
   - {type: punctuation, offset: 3646, content: 》, id: KR4h0178_CHANT_036-bkkpn751}
-  - {type: substitution, offset: 3662, original: 牋, replacement: 箋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2083}}
   - {type: punctuation, offset: 3669, content: 。, id: KR4h0178_CHANT_036-bkkpn752}
   - {type: xml-element, offset: 3669, content: '', id: KR4h0178_CHANT_036-bkkxmlele86, name: p, role: close}
   - {type: xml-element, offset: 3669, content: '', id: KR4h0178_CHANT_036-bkkxmlele87, name: p, role: open}
@@ -1655,8 +1602,6 @@ markers:
   - {type: 'tls:seg', offset: 3820, content: '', id: KR4h0178_CHANT_036-21a.22}
   - {type: punctuation, offset: 3825, content: 。, id: KR4h0178_CHANT_036-bkkpn788}
   - {type: 'tls:seg', offset: 3825, content: '', id: KR4h0178_CHANT_036-21a.23}
-  - {type: substitution, offset: 3830, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
-  - {type: substitution, offset: 3832, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
   - {type: punctuation, offset: 3833, content: 。, id: KR4h0178_CHANT_036-bkkpn789}
   - {type: 'tls:seg', offset: 3833, content: '', id: KR4h0178_CHANT_036-21a.24}
   - {type: punctuation, offset: 3841, content: 。, id: KR4h0178_CHANT_036-bkkpn790}
@@ -1665,7 +1610,6 @@ markers:
   - {type: 'tls:seg', offset: 3846, content: '', id: KR4h0178_CHANT_036-21a.26}
   - {type: punctuation, offset: 3850, content: 。, id: KR4h0178_CHANT_036-bkkpn792}
   - {type: 'tls:seg', offset: 3850, content: '', id: KR4h0178_CHANT_036-21a.27}
-  - {type: substitution, offset: 3855, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 3856, content: 。, id: KR4h0178_CHANT_036-bkkpn793}
   - {type: 'tls:seg', offset: 3856, content: '', id: KR4h0178_CHANT_036-21a.28}
   - {type: punctuation, offset: 3860, content: 。, id: KR4h0178_CHANT_036-bkkpn794}
@@ -1686,7 +1630,6 @@ markers:
   - {type: 'tls:seg', offset: 3907, content: '', id: KR4h0178_CHANT_036-21a.36}
   - {type: punctuation, offset: 3913, content: 。, id: KR4h0178_CHANT_036-bkkpn802}
   - {type: 'tls:seg', offset: 3913, content: '', id: KR4h0178_CHANT_036-21a.37}
-  - {type: substitution, offset: 3918, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
   - {type: punctuation, offset: 3919, content: 。, id: KR4h0178_CHANT_036-bkkpn803}
   - {type: 'tls:seg', offset: 3919, content: '', id: KR4h0178_CHANT_036-21a.38}
   - {type: punctuation, offset: 3923, content: 。, id: KR4h0178_CHANT_036-bkkpn804}
@@ -1751,7 +1694,6 @@ markers:
   - {type: 'tls:seg', offset: 4078, content: '', id: KR4h0178_CHANT_036-21a.68}
   - {type: punctuation, offset: 4082, content: 。, id: KR4h0178_CHANT_036-bkkpn834}
   - {type: 'tls:seg', offset: 4082, content: '', id: KR4h0178_CHANT_036-21a.69}
-  - {type: substitution, offset: 4084, original: 匄, replacement: 丐, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0028}}
   - {type: punctuation, offset: 4089, content: 。, id: KR4h0178_CHANT_036-bkkpn835}
   - {type: 'tls:seg', offset: 4089, content: '', id: KR4h0178_CHANT_036-21a.70}
   - {type: punctuation, offset: 4093, content: 。, id: KR4h0178_CHANT_036-bkkpn836}
@@ -1856,14 +1798,12 @@ markers:
   - {type: 'tls:seg', offset: 4374, content: '', id: KR4h0178_CHANT_036-21a.120}
   - {type: punctuation, offset: 4379, content: 。, id: KR4h0178_CHANT_036-bkkpn886}
   - {type: 'tls:seg', offset: 4379, content: '', id: KR4h0178_CHANT_036-21a.121}
-  - {type: substitution, offset: 4384, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
   - {type: punctuation, offset: 4387, content: 。, id: KR4h0178_CHANT_036-bkkpn887}
   - {type: 'tls:seg', offset: 4387, content: '', id: KR4h0178_CHANT_036-21a.122}
   - {type: punctuation, offset: 4389, content: 。, id: KR4h0178_CHANT_036-bkkpn888}
   - {type: 'tls:seg', offset: 4389, content: '', id: KR4h0178_CHANT_036-21a.123}
   - {type: punctuation, offset: 4395, content: 。, id: KR4h0178_CHANT_036-bkkpn889}
   - {type: 'tls:seg', offset: 4395, content: '', id: KR4h0178_CHANT_036-21a.124}
-  - {type: substitution, offset: 4400, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
   - {type: punctuation, offset: 4401, content: 。, id: KR4h0178_CHANT_036-bkkpn890}
   - {type: 'tls:seg', offset: 4401, content: '', id: KR4h0178_CHANT_036-21a.125}
   - {type: punctuation, offset: 4405, content: 。, id: KR4h0178_CHANT_036-bkkpn891}
@@ -1878,7 +1818,6 @@ markers:
   - {type: 'tls:seg', offset: 4424, content: '', id: KR4h0178_CHANT_036-21a.130}
   - {type: punctuation, offset: 4428, content: 。, id: KR4h0178_CHANT_036-bkkpn896}
   - {type: 'tls:seg', offset: 4428, content: '', id: KR4h0178_CHANT_036-21a.131}
-  - {type: substitution, offset: 4430, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 4433, content: 。, id: KR4h0178_CHANT_036-bkkpn897}
   - {type: 'tls:seg', offset: 4433, content: '', id: KR4h0178_CHANT_036-21a.132}
   - {type: punctuation, offset: 4437, content: 。, id: KR4h0178_CHANT_036-bkkpn898}
@@ -1909,7 +1848,6 @@ markers:
   - {type: 'tls:seg', offset: 4494, content: '', id: KR4h0178_CHANT_036-21a.145}
   - {type: punctuation, offset: 4498, content: 。, id: KR4h0178_CHANT_036-bkkpn911}
   - {type: 'tls:seg', offset: 4498, content: '', id: KR4h0178_CHANT_036-21a.146}
-  - {type: substitution, offset: 4504, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 4506, content: 。, id: KR4h0178_CHANT_036-bkkpn912}
   - {type: 'tls:seg', offset: 4506, content: '', id: KR4h0178_CHANT_036-21a.147}
   - {type: punctuation, offset: 4510, content: 。, id: KR4h0178_CHANT_036-bkkpn913}
@@ -1920,7 +1858,6 @@ markers:
   - {type: 'tls:seg', offset: 4520, content: '', id: KR4h0178_CHANT_036-21a.150}
   - {type: punctuation, offset: 4526, content: 。, id: KR4h0178_CHANT_036-bkkpn916}
   - {type: 'tls:seg', offset: 4526, content: '', id: KR4h0178_CHANT_036-21a.151}
-  - {type: substitution, offset: 4530, original: 緜, replacement: 綿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1180}}
   - {type: punctuation, offset: 4532, content: 。, id: KR4h0178_CHANT_036-bkkpn917}
   - {type: 'tls:seg', offset: 4532, content: '', id: KR4h0178_CHANT_036-21a.152}
   - {type: punctuation, offset: 4539, content: 。, id: KR4h0178_CHANT_036-bkkpn918}
@@ -1967,7 +1904,6 @@ markers:
   - {type: 'tls:seg', offset: 4655, content: '', id: KR4h0178_CHANT_036-21a.173}
   - {type: punctuation, offset: 4659, content: 。, id: KR4h0178_CHANT_036-bkkpn939}
   - {type: 'tls:seg', offset: 4659, content: '', id: KR4h0178_CHANT_036-21a.174}
-  - {type: substitution, offset: 4659, original: 澹, replacement: 淡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3894}}
   - {type: punctuation, offset: 4663, content: 。, id: KR4h0178_CHANT_036-bkkpn940}
   - {type: 'tls:seg', offset: 4663, content: '', id: KR4h0178_CHANT_036-21a.175}
   - {type: punctuation, offset: 4667, content: 。, id: KR4h0178_CHANT_036-bkkpn941}
@@ -2006,7 +1942,6 @@ markers:
   - {type: 'tls:seg', offset: 4750, content: '', id: KR4h0178_CHANT_036-21a.192}
   - {type: punctuation, offset: 4754, content: 。, id: KR4h0178_CHANT_036-bkkpn958}
   - {type: 'tls:seg', offset: 4754, content: '', id: KR4h0178_CHANT_036-21a.193}
-  - {type: substitution, offset: 4757, original: 洿, replacement: 汙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3640}}
   - {type: punctuation, offset: 4758, content: 。, id: KR4h0178_CHANT_036-bkkpn959}
   - {type: 'tls:seg', offset: 4758, content: '', id: KR4h0178_CHANT_036-21a.194}
   - {type: punctuation, offset: 4762, content: 。, id: KR4h0178_CHANT_036-bkkpn960}
@@ -2077,7 +2012,6 @@ markers:
   - {type: 'tls:seg', offset: 4919, content: '', id: KR4h0178_CHANT_036-22a.11}
   - {type: punctuation, offset: 4923, content: 。, id: KR4h0178_CHANT_036-bkkpn994}
   - {type: 'tls:seg', offset: 4923, content: '', id: KR4h0178_CHANT_036-22a.12}
-  - {type: substitution, offset: 4930, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 4931, content: 。, id: KR4h0178_CHANT_036-bkkpn995}
   - {type: 'tls:seg', offset: 4931, content: '', id: KR4h0178_CHANT_036-22a.13}
   - {type: punctuation, offset: 4935, content: 。, id: KR4h0178_CHANT_036-bkkpn996}
@@ -2108,7 +2042,6 @@ markers:
   - {type: 'tls:seg', offset: 4996, content: '', id: KR4h0178_CHANT_036-22a.26}
   - {type: punctuation, offset: 5001, content: 。, id: KR4h0178_CHANT_036-bkkpn1009}
   - {type: 'tls:seg', offset: 5001, content: '', id: KR4h0178_CHANT_036-22a.27}
-  - {type: substitution, offset: 5006, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
   - {type: punctuation, offset: 5007, content: 。, id: KR4h0178_CHANT_036-bkkpn1010}
   - {type: 'tls:seg', offset: 5007, content: '', id: KR4h0178_CHANT_036-22a.28}
   - {type: punctuation, offset: 5011, content: 。, id: KR4h0178_CHANT_036-bkkpn1011}
@@ -2122,7 +2055,6 @@ markers:
   - {type: punctuation, offset: 5029, content: 。, id: KR4h0178_CHANT_036-bkkpn1015}
   - {type: 'tls:seg', offset: 5029, content: '', id: KR4h0178_CHANT_036-22a.33}
   - {type: punctuation, offset: 5029, content: 《, id: KR4h0178_CHANT_036-bkkpn1016}
-  - {type: substitution, offset: 5029, original: 蓺, replacement: 藝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3239}}
   - {type: punctuation, offset: 5033, content: 》, id: KR4h0178_CHANT_036-bkkpn1017}
   - {type: punctuation, offset: 5036, content: 。, id: KR4h0178_CHANT_036-bkkpn1018}
   - {type: xml-element, offset: 5036, content: '', id: KR4h0178_CHANT_036-bkkxmlele98, name: p, role: close}
@@ -2175,7 +2107,6 @@ markers:
   - {type: 'tls:seg', offset: 5127, content: '', id: KR4h0178_CHANT_036-23a.20}
   - {type: punctuation, offset: 5131, content: 。, id: KR4h0178_CHANT_036-bkkpn1041}
   - {type: 'tls:seg', offset: 5131, content: '', id: KR4h0178_CHANT_036-23a.21}
-  - {type: substitution, offset: 5134, original: 蓺, replacement: 藝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3239}}
   - {type: punctuation, offset: 5135, content: 。, id: KR4h0178_CHANT_036-bkkpn1042}
   - {type: 'tls:seg', offset: 5135, content: '', id: KR4h0178_CHANT_036-23a.22}
   - {type: punctuation, offset: 5138, content: 。, id: KR4h0178_CHANT_036-bkkpn1043}
@@ -2280,7 +2211,6 @@ markers:
   - {type: 'tls:seg', offset: 5369, content: '', id: KR4h0178_CHANT_036-26a.3}
   - {type: punctuation, offset: 5375, content: 。, id: KR4h0178_CHANT_036-bkkpn1092}
   - {type: 'tls:seg', offset: 5375, content: '', id: KR4h0178_CHANT_036-26a.4}
-  - {type: substitution, offset: 5378, original: 塚, replacement: 冢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1996}}
   - {type: punctuation, offset: 5379, content: 。, id: KR4h0178_CHANT_036-bkkpn1093}
   - {type: 'tls:seg', offset: 5379, content: '', id: KR4h0178_CHANT_036-26a.5}
   - {type: punctuation, offset: 5387, content: 。, id: KR4h0178_CHANT_036-bkkpn1094}
@@ -2307,4 +2237,4 @@ markers:
   - {type: punctuation, offset: 5436, content: 。, id: KR4h0178_CHANT_036-bkkpn1107}
   - {type: xml-element, offset: 5436, content: '', id: KR4h0178_CHANT_036-bkkxmlele114, name: p, role: close}
   back: []
-hash: sha256:d19ae57df4410659428b21fb875ac319b4fff1b560e85d03c28a33d4257941aa
+hash: sha256:f62666e295a9982b029fdd89f0d290d438d4df5130a13e8be44ce06359158b9c
